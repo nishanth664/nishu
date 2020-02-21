@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/byte-buddy-1.8.15 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/cldc-1.1-java5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/client-combined-3.141.59 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/client-combined-3.141.59-sources - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/commons-exec-1.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/dom4j-1.6 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/guava-25.0-jre - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/gwtx-1.5.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/gwtx-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/java-rt-jar-stubs-1.5.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/junit - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/okhttp-3.11.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/selenium-remote-driver-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/testng-7.0.0-beta7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VENUE11 PRO/Desktop/jars/testng-7.1.0 (1).jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
