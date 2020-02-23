@@ -10,11 +10,6 @@ import com.fb.qa.baseclass.credentials;
 import com.fb.qa.test.Loginpagetest;
 
 public class Loginpageobjects {
-//public static String  Login_username = "//input [@id ='email' and @class ='inputtext login_form_input_box']" ;
-//	public static String login_password = "//input [@type = 'password' and @ name ='pass']";
-//	public static String login_button ="//button [@type ='submit' and @ class = '_6j mvm _6wk _6wl _58mi _3ma _6o _6v']";
-//  public static String fb_image = "//img [@class = '_s0 _4ooo _1x2_ _1ve7 _1gax img']"; 
-
 	
 	
 private WebDriver driver;
